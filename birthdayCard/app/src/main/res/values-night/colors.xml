@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="text_happy_birthday">#E8D7D5</color>
+    <color name="text_from_sender">#C60000</color>
+    <color name="bg_tint">#555555</color>
+</resources>
