@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">businessCard</string>
+    <string name="android_logo">TODO</string>
+    <string name="descriptionText">IT Student</string>
+    <string name="author_name">Maryam Hassanain</string>
+    <string name="number">+970597431459</string>
+    <string name="contacts">maryam._.moe</string>
+    <string name="email">maryam20062023@gmail.com</string>
+</resources>
